@@ -5,7 +5,7 @@
 ## About Me
 
 👨‍💻 **Core Software Engineer** at [Sky UK](https://www.sky.com)  
-📈 **CEO** at [Tracket Ltd](https://www.tracket.co.uk)  
+📈 **CEO** at [Tracket Ltd](https://tracket.co.uk)  
 
 ### Pronouns: He/Him
 
