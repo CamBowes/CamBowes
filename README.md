@@ -44,7 +44,7 @@ With 8 years of experience in software development, I've had the pleasure of wor
 
 Here are some of the projects I've worked on:
 
-- **My Sky App:** Contributed to improving user experience and adding new features.
+- **My Sky App:** Contributed to all full re-platform from Native Android and iOS to React Native.
 - **Rail Locator:** Leading a team of developers to create THE goto app for Rail Workers in the UK.
 
 ## ⚡ Fun Facts
