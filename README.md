@@ -9,6 +9,8 @@
 
 ### Pronouns: He/Him
 
+### I'm from Filey but work in Leeds!
+
 With 8 years of experience in software development, I've had the pleasure of working with some amazing teams and technologies. I've been part of the My Sky App team and now I'm contributing to the Digital Core Team at Sky.
 
 ## 🛠️ Tech Stack
@@ -57,7 +59,3 @@ Here are some of the projects I've worked on:
 ![Coding GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
 Thanks for stopping by! Feel free to reach out if you want to collaborate on a project or just chat about tech, golf, paddleboarding, or gaming!
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cambowes&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cambowes&layout=compact&theme=radical)
