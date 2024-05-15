@@ -1,6 +1,6 @@
 # Hi there, I'm Cam! 👋
 
-![Banner](https://media.giphy.com/media/26BRBupa7f6Av8sTu/giphy.gif)
+![Banner](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
 
 ## About Me
 
@@ -58,6 +58,6 @@ Here are some of the projects I've worked on:
 
 Thanks for stopping by! Feel free to reach out if you want to collaborate on a project or just chat about tech, golf, paddleboarding, or gaming!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cambowes&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cambowes&layout=compact&theme=radical)
