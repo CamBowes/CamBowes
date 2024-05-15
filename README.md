@@ -5,11 +5,9 @@
 ## About Me
 
 👨‍💻 **Core Software Engineer** at [Sky UK](https://www.sky.com)  
-📈 **Managing Director** at [Tracket Ltd](https://www.tracket.co.uk)  
+📈 **CEO** at [Tracket Ltd](https://www.tracket.co.uk)  
 
 ### Pronouns: He/Him
-
-### I'm from Filey but work in Leeds!
 
 With 8 years of experience in software development, I've had the pleasure of working with some amazing teams and technologies. I've been part of the My Sky App team and now I'm contributing to the Digital Core Team at Sky.
 
