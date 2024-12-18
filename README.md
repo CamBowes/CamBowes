@@ -27,8 +27,7 @@ With 8 years of experience in software development, I've had the pleasure of wor
   - Google Cloud
   - Kubernetes
   - Docker
-  - Nimbus
-  - FluidCloud
+  - CloudFoundry
 
 ## 🌟 What I Specialize In
 
