@@ -9,19 +9,24 @@
 
 ### Pronouns: He/Him
 
-With 8 years of experience in software development, I've had the pleasure of working with some amazing teams and technologies. I've been part of the My Sky App team and now I'm contributing to the Digital Core Team at Sky.
+With 10 years of experience in software development, I've had the pleasure of working with some amazing teams and technologies. I've been part of the My Sky App team and now I'm contributing to the Digital Core Team at Sky.
 
 ## 🛠️ Tech Stack
 
 - **Languages & Frameworks:**
-  - TypeScript
+  - TypeScript/JavaScript
   - Apollo GraphQL
   - React Native
   - ReactJS
   - GraphQL
+  - Nest.JS
+  - Next.JS
 
 - **Databases:**
   - MongoDB
+  - MySQL
+  - PostgreSQL
+  - Redis
 
 - **Cloud Technologies:**
   - Google Cloud
@@ -43,6 +48,7 @@ With 8 years of experience in software development, I've had the pleasure of wor
 
 Here are some of the projects I've worked on:
 
+- **Sky.com:** Contributed to the Digital Core Platform of sky.com and MySky app, focusing on maintaing and federating a graphql service used by millions of requests per day.
 - **My Sky App:** Contributed to all full re-platform from Native Android and iOS to React Native.
 - **Rail Locator:** Leading a team of developers to create THE goto app for Rail Workers in the UK.
 
@@ -51,7 +57,6 @@ Here are some of the projects I've worked on:
 - ⛳ I love playing Golf
 - 🏄‍♂️ Enjoy paddleboarding during weekends
 - 🎮 Passionate about PC Gaming
-- I'm working towards my Professional Cloud Architect Certification from Google
 
 ![Coding GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
