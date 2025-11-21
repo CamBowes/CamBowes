@@ -5,7 +5,9 @@
 ## About Me
 
 👨‍💻 **Senior Software Engineer** at [Nexus Rental](https://www.nexusrental.co.uk/) 
+
 👨‍💻 **Formerly** [Sky UK](https://www.sky.com/) and [Deep Sea Electronics](https://www.deepseaelectronics.com/)
+
 📈 **CEO** at [Tracket Ltd](https://tracket.co.uk)  
 
 ### Pronouns: He/Him
