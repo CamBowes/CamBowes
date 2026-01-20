@@ -4,7 +4,9 @@
 
 ## About Me
 
-👨‍💻 **Formerly** [Sky UK](https://www.sky.com/) and [Deep Sea Electronics](https://www.deepseaelectronics.com/)
+👨‍💻 **Formerly** [Sky UK](https://www.sky.com/)
+
+💻 **Consultant Lead Cloud Engineer** at [Deep Sea Electronics](https://deepseaelectronics.com)
 
 📈 **CEO** at [Tracket Ltd](https://tracket.co.uk)  
 
