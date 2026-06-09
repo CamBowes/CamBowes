@@ -6,7 +6,7 @@
 
 👨‍💻 **Formerly** [Sky UK](https://www.sky.com/)
 
-💻 **Consultant Lead Cloud Engineer** at [Deep Sea Electronics](https://deepseaelectronics.com)
+💻 **Team Manager (Cloud)** at [Deep Sea Electronics](https://deepseaelectronics.com)
 
 📈 **CEO** at [Tracket Ltd](https://tracket.co.uk)  
 
